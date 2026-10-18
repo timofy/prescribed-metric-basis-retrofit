@@ -1,0 +1,134 @@
+[
+  {
+    "trees": 1,
+    "edge_additions": 1,
+    "classes": 1,
+    "n": 3,
+    "solved": 1,
+    "bases": 3,
+    "penalties": {
+      "0": 3
+    },
+    "raw_cycle_constructions": 1,
+    "secondary_classes": 1,
+    "matched_classes": 1,
+    "cpu_seconds_solve_verify_and_coverage": 0.0,
+    "complete": true
+  },
+  {
+    "trees": 2,
+    "edge_additions": 6,
+    "classes": 2,
+    "n": 4,
+    "solved": 2,
+    "bases": 9,
+    "penalties": {
+      "0": 9
+    },
+    "raw_cycle_constructions": 4,
+    "secondary_classes": 2,
+    "matched_classes": 2,
+    "cpu_seconds_solve_verify_and_coverage": 0.0,
+    "complete": true
+  },
+  {
+    "trees": 2,
+    "edge_additions": 11,
+    "classes": 4,
+    "n": 5,
+    "solved": 4,
+    "bases": 29,
+    "penalties": {
+      "0": 29
+    },
+    "raw_cycle_constructions": 11,
+    "secondary_classes": 4,
+    "matched_classes": 4,
+    "cpu_seconds_solve_verify_and_coverage": 0.0,
+    "complete": true
+  },
+  {
+    "trees": 4,
+    "edge_additions": 32,
+    "classes": 9,
+    "n": 6,
+    "solved": 9,
+    "bases": 74,
+    "penalties": {
+      "0": 74
+    },
+    "raw_cycle_constructions": 29,
+    "secondary_classes": 9,
+    "matched_classes": 9,
+    "cpu_seconds_solve_verify_and_coverage": 0.03125,
+    "complete": true
+  },
+  {
+    "trees": 6,
+    "edge_additions": 70,
+    "classes": 17,
+    "n": 7,
+    "solved": 17,
+    "bases": 175,
+    "penalties": {
+      "0": 170,
+      "1": 5
+    },
+    "raw_cycle_constructions": 73,
+    "secondary_classes": 17,
+    "matched_classes": 17,
+    "cpu_seconds_solve_verify_and_coverage": 0.0625,
+    "complete": true
+  },
+  {
+    "trees": 11,
+    "edge_additions": 166,
+    "classes": 38,
+    "n": 8,
+    "solved": 38,
+    "bases": 407,
+    "penalties": {
+      "0": 394,
+      "1": 13
+    },
+    "raw_cycle_constructions": 181,
+    "secondary_classes": 38,
+    "matched_classes": 38,
+    "cpu_seconds_solve_verify_and_coverage": 0.3125,
+    "complete": true
+  },
+  {
+    "trees": 18,
+    "edge_additions": 353,
+    "classes": 80,
+    "n": 9,
+    "solved": 80,
+    "bases": 971,
+    "penalties": {
+      "0": 943,
+      "1": 28
+    },
+    "raw_cycle_constructions": 444,
+    "secondary_classes": 80,
+    "matched_classes": 80,
+    "cpu_seconds_solve_verify_and_coverage": 1.546875,
+    "complete": true
+  },
+  {
+    "trees": 37,
+    "edge_additions": 889,
+    "classes": 180,
+    "n": 10,
+    "solved": 180,
+    "bases": 2232,
+    "penalties": {
+      "0": 2139,
+      "1": 93
+    },
+    "raw_cycle_constructions": 1085,
+    "secondary_classes": 180,
+    "matched_classes": 180,
+    "cpu_seconds_solve_verify_and_coverage": 8.15625,
+    "complete": true
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "all_case_ids_accounted_for": 382,
+  "skipped": 0,
+  "noise_certificates": 4675,
+  "labelled_distinct_cases": {
+    "baseline": 71,
+    "weighted": 213,
+    "degree4": 28,
+    "bicyclic": 67
+  },
+  "freeze_hashes_unchanged": true,
+  "resources": {
+    "cpu_seconds": 0.5,
+    "aggregate_job_cpu_seconds": 0.5,
+    "wall_seconds": 0.36341029999312013,
+    "peak_job_commit_bytes": 40792064,
+    "peak_working_set_bytes": 51687424,
+    "job_memory_limit_bytes": 200000000,
+    "hard_working_set_max_bytes": 200000000,
+    "job_user_cpu_limit_seconds": 30,
+    "wall_limit_seconds": 40,
+    "affinity": 1,
+    "active_process_limit": 1
+  },
+  "method": "Explicit all-erasure maximum separation, and exact midpoint ambiguity at boundary; not independent human review"
+}

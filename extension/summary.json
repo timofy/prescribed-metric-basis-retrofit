@@ -1,0 +1,266 @@
+{
+  "baseline": {
+    "cases": 71,
+    "bases": 697,
+    "premium_histogram": {
+      "0": 679,
+      "1": 18
+    },
+    "subset_entries": 12648,
+    "noise_roles": {
+      "minimum_basis": {
+        "rows": 697,
+        "m2_histogram": {
+          "0": 697
+        },
+        "robust_one_erasure_counts": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "robust_without_loss_counts": [
+          697,
+          697,
+          0,
+          0
+        ]
+      },
+      "minimum_augmentation": {
+        "rows": 697,
+        "m2_histogram": {
+          "1": 697
+        },
+        "robust_one_erasure_counts": [
+          697,
+          697,
+          0,
+          0
+        ],
+        "robust_without_loss_counts": [
+          697,
+          697,
+          0,
+          0
+        ]
+      },
+      "unconstrained_ft": {
+        "rows": 71,
+        "m2_histogram": {
+          "1": 71
+        },
+        "robust_one_erasure_counts": [
+          71,
+          71,
+          0,
+          0
+        ],
+        "robust_without_loss_counts": [
+          71,
+          71,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "weighted": {
+    "cases": 213,
+    "bases": 1337,
+    "premium_histogram": {
+      "0": 1317,
+      "1": 20
+    },
+    "subset_entries": 37944,
+    "noise_roles": {
+      "minimum_basis": {
+        "rows": 1337,
+        "m2_histogram": {
+          "0": 1337
+        },
+        "robust_one_erasure_counts": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "robust_without_loss_counts": [
+          1337,
+          1337,
+          36,
+          13
+        ]
+      },
+      "minimum_augmentation": {
+        "rows": 1337,
+        "m2_histogram": {
+          "1": 1300,
+          "2": 24,
+          "3": 13
+        },
+        "robust_one_erasure_counts": [
+          1337,
+          1337,
+          37,
+          13
+        ],
+        "robust_without_loss_counts": [
+          1337,
+          1337,
+          65,
+          13
+        ]
+      },
+      "unconstrained_ft": {
+        "rows": 213,
+        "m2_histogram": {
+          "1": 205,
+          "2": 7,
+          "3": 1
+        },
+        "robust_one_erasure_counts": [
+          213,
+          213,
+          8,
+          1
+        ],
+        "robust_without_loss_counts": [
+          213,
+          213,
+          17,
+          1
+        ]
+      }
+    }
+  },
+  "degree4": {
+    "cases": 28,
+    "bases": 278,
+    "premium_histogram": {
+      "0": 198,
+      "1": 80
+    },
+    "subset_entries": 5344,
+    "noise_roles": {
+      "minimum_basis": {
+        "rows": 278,
+        "m2_histogram": {
+          "0": 278
+        },
+        "robust_one_erasure_counts": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "robust_without_loss_counts": [
+          278,
+          278,
+          0,
+          0
+        ]
+      },
+      "minimum_augmentation": {
+        "rows": 278,
+        "m2_histogram": {
+          "1": 278
+        },
+        "robust_one_erasure_counts": [
+          278,
+          278,
+          0,
+          0
+        ],
+        "robust_without_loss_counts": [
+          278,
+          278,
+          0,
+          0
+        ]
+      },
+      "unconstrained_ft": {
+        "rows": 28,
+        "m2_histogram": {
+          "1": 28
+        },
+        "robust_one_erasure_counts": [
+          28,
+          28,
+          0,
+          0
+        ],
+        "robust_without_loss_counts": [
+          28,
+          28,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "bicyclic": {
+    "cases": 70,
+    "bases": 672,
+    "premium_histogram": {
+      "0": 602,
+      "1": 70
+    },
+    "subset_entries": 12640,
+    "noise_roles": {
+      "minimum_basis": {
+        "rows": 672,
+        "m2_histogram": {
+          "0": 672
+        },
+        "robust_one_erasure_counts": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "robust_without_loss_counts": [
+          672,
+          672,
+          0,
+          0
+        ]
+      },
+      "minimum_augmentation": {
+        "rows": 672,
+        "m2_histogram": {
+          "1": 672
+        },
+        "robust_one_erasure_counts": [
+          672,
+          672,
+          0,
+          0
+        ],
+        "robust_without_loss_counts": [
+          672,
+          672,
+          0,
+          0
+        ]
+      },
+      "unconstrained_ft": {
+        "rows": 70,
+        "m2_histogram": {
+          "1": 70
+        },
+        "robust_one_erasure_counts": [
+          70,
+          70,
+          0,
+          0
+        ],
+        "robust_without_loss_counts": [
+          70,
+          70,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

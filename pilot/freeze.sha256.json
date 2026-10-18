@@ -1,0 +1,18 @@
+[
+  {
+    "path": "contract.json",
+    "sha256": "a8406510640cc9f9f4db2cc533ba594495ab525b2f457c2b5299fd7db1adc877"
+  },
+  {
+    "path": "SPECIFICATION.md",
+    "sha256": "e486788604b4922b23192b4cb5e145451bbba987e1927575580594b7d9892f05"
+  },
+  {
+    "path": "IMPLEMENTATION_PLAN.md",
+    "sha256": "d2e3712c322f77ef966fc2c68e03584fc52e9ebe885323d9f29eeef341745da4"
+  },
+  {
+    "path": "RESOURCE_AND_RUN_PLAN.md",
+    "sha256": "d5476593d7b42b6c5d549946b24b0e75be5eca22fa100fdd98efbe4c7a89c02d"
+  }
+]

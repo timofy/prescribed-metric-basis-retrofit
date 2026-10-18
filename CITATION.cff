@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Cite this AI-generated research draft with its review and scope limitations. Tim Hughes is project owner/research coordinator; personal proof verification is not asserted."
+title: "Retaining a metric basis under one sensor erasure in subcubic unicyclic graphs"
+type: dataset
+version: "2-public.1"
+authors:
+  - name: "Prescribed metric-basis retrofit project"
+repository-code: "https://github.com/timofy/prescribed-metric-basis-retrofit"
+url: "https://timofy.github.io/prescribed-metric-basis-retrofit/"
+license: "CC-BY-4.0"
+keywords:
+  - mathematics
+  - metric dimension
+  - fault tolerance
+  - AI-generated research draft
+abstract: "AI-generated mathematics draft with executable computational audits; not human peer reviewed. Originality not guaranteed; no physical validation. Documentation is CC BY 4.0 and original code is MIT, only to the extent rights may be granted."

@@ -1,0 +1,28 @@
+{
+  "status": "completed",
+  "started": "2026-10-18T19:49:31.964785+00:00",
+  "python": "3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "argv": [
+    "extension-001\\run_extension.py"
+  ],
+  "assertion_tested": "finite prescribed-basis premium and deterministic bounded-error separation, per frozen protocol",
+  "cases_completed": 382,
+  "independent_check": "Dijkstra and tuple-signature deletion for every subset",
+  "resources": {
+    "cpu_seconds": 2.125,
+    "aggregate_job_cpu_seconds": 2.125,
+    "wall_seconds": 2.2539644000062253,
+    "peak_job_commit_bytes": 27258880,
+    "peak_working_set_bytes": 42688512,
+    "job_memory_limit_bytes": 3300000000,
+    "hard_working_set_max_bytes": 3000000000,
+    "job_user_cpu_limit_seconds": 1000,
+    "wall_limit_seconds": 1100,
+    "affinity": 1,
+    "active_process_limit": 1
+  },
+  "fixtures": "PASS",
+  "counterexamples": [],
+  "finished": "2026-10-18T19:49:34.216164+00:00"
+}

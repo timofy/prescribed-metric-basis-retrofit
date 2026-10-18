@@ -1,0 +1,153 @@
+{
+  "verdict": "computational PASS; editorial corrections required",
+  "summary": {
+    "baseline": {
+      "cases": 71,
+      "bases": 697,
+      "p": {
+        "0": 679,
+        "1": 18
+      },
+      "aug_pass": [
+        697,
+        697,
+        0,
+        0
+      ],
+      "ft_pass": [
+        71,
+        71,
+        0,
+        0
+      ],
+      "m2": {
+        "1": 697
+      },
+      "distinct": 71
+    },
+    "weighted": {
+      "cases": 213,
+      "bases": 1337,
+      "p": {
+        "0": 1317,
+        "1": 20
+      },
+      "aug_pass": [
+        1337,
+        1337,
+        37,
+        13
+      ],
+      "ft_pass": [
+        213,
+        213,
+        8,
+        1
+      ],
+      "m2": {
+        "1": 1300,
+        "2": 24,
+        "3": 13
+      },
+      "distinct": 213
+    },
+    "degree4": {
+      "cases": 28,
+      "bases": 278,
+      "p": {
+        "0": 198,
+        "1": 80
+      },
+      "aug_pass": [
+        278,
+        278,
+        0,
+        0
+      ],
+      "ft_pass": [
+        28,
+        28,
+        0,
+        0
+      ],
+      "m2": {
+        "1": 278
+      },
+      "distinct": 28
+    },
+    "bicyclic": {
+      "cases": 70,
+      "bases": 672,
+      "p": {
+        "0": 602,
+        "1": 70
+      },
+      "aug_pass": [
+        672,
+        672,
+        0,
+        0
+      ],
+      "ft_pass": [
+        70,
+        70,
+        0,
+        0
+      ],
+      "m2": {
+        "1": 672
+      },
+      "distinct": 67
+    }
+  },
+  "subset_entries": 68576,
+  "noise_certificates": 4675,
+  "cpu_seconds": 0.90625,
+  "wall_seconds": 0.9049139999988256,
+  "peak_working_set_bytes": 54587392,
+  "timestamps": {
+    "PROTOCOL.md": {
+      "created": "2026-10-18T19:48:35.324178+00:00",
+      "modified": "2026-10-18T19:48:35.326184+00:00"
+    },
+    "freeze.json": {
+      "created": "2026-10-18T19:49:25.698507+00:00",
+      "modified": "2026-10-18T19:49:25.698507+00:00"
+    },
+    "planned-cases.json": {
+      "created": "2026-10-18T19:48:52.480641+00:00",
+      "modified": "2026-10-18T19:48:52.482643+00:00"
+    },
+    "results.jsonl": {
+      "created": "2026-10-18T19:49:32.242196+00:00",
+      "modified": "2026-10-18T19:49:34.214798+00:00"
+    },
+    "run-manifest.json": {
+      "created": "2026-10-18T19:49:32.238510+00:00",
+      "modified": "2026-10-18T19:49:34.214798+00:00"
+    }
+  },
+  "source_hashes": {
+    "computational-extension-001-audit-package.zip": "35f48778258b5cf01ee7ff773fb1586e8290714319d7b7f209b1da3c4ce07432",
+    "delivery-sha256.json": "e18b10a88184ede509816ff5068fef71deaa210d84fb388ae3acb18562012e83",
+    "DRAFT_ADDENDUM.md": "4e16a931c59b5239dc17247af4f57bf966af638ccbf51da859d1bcecbd150a99",
+    "freeze.json": "687c34d77bb5b9a87643af5749ed0f006cf11b269726190ded210103e1bb8817",
+    "input-graphs.jsonl": "62e60f9bb99846634ed134a1340e4d054fc33600676bf68f1271f1e82db94f17",
+    "limits.py": "b3a76167b6df9856a1a7d490a489280e8ba669f69cdee4a80d69d74985650e8c",
+    "noise-boundary-certificates.jsonl": "f3fe7a989b6e89d989005383934ee789c94009d2766ca29324576bef24fd4423",
+    "package.py": "c1afa5351f777efdd6e73b341a01c10c10f6e4d902305293ba47fea100497e99",
+    "planned-cases.json": "f87f3d0923973dc5510cc181b8519bb8da363f88d6d70eb02f7b9ee209661796",
+    "postcheck.json": "5f4ab79d1cfd87333a1230448d67ce12a3d70cdd32f4ed7d3905553c9bc21d08",
+    "postcheck.py": "98ea6b622f2c91e5fba4c1e7f060a990dd49f605449cfebe6455f0556768a05a",
+    "prepare_cases.py": "a797c67820bf0e75bc86833fd46dd28e7a9301d69d79df6c8c5baacb9904cf32",
+    "preservation-check.json": "21498b9daaf5c286b54818a9dfa95387e8cf519a35b5ca8f96f8502be20dde6b",
+    "PROTOCOL.md": "2964c93f725b19c25c8accaa86f8853806ab8248223a145a8cc0d0c039876730",
+    "REPORT.md": "43991aa0c1537e840327ddc8201c68cce4c22b608e9f8e56b1bfe2926bf3b15d",
+    "results.jsonl": "c202b7e2d20554255bf54f4ffdff6b069593321c3c8dff1ee22f25f6016d4c32",
+    "run-manifest.json": "5e3b2f5a12f2029719b2aea4724f574418719fccba2b284284ba047780cbaafb",
+    "run_extension.py": "ca536e6407fe739a8250d9c4716f518cca3ef901f1d42e432386e98c68588122",
+    "summarise.py": "7079d0d9872eea73cebdb3748ba9f640dd9ee394daf6366b87bdcbb1a77c348b",
+    "summary.json": "b401eb5c7f54d62ce12fec6a31a9cb3e374846b055644676c4dd451727c668c9"
+  },
+  "unchanged": true
+}

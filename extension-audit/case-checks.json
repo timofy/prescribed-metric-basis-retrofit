@@ -1,0 +1,2676 @@
+[
+  {
+    "id": "baseline-000",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 3,
+    "layouts": 4
+  },
+  {
+    "id": "baseline-001",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 5,
+    "layouts": 7
+  },
+  {
+    "id": "baseline-002",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "baseline-003",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 7,
+    "layouts": 10
+  },
+  {
+    "id": "baseline-004",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 8,
+    "layouts": 12
+  },
+  {
+    "id": "baseline-005",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 6
+  },
+  {
+    "id": "baseline-006",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 10,
+    "layouts": 16
+  },
+  {
+    "id": "baseline-007",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 9,
+    "layouts": 13
+  },
+  {
+    "id": "baseline-008",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "baseline-009",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 11,
+    "layouts": 17
+  },
+  {
+    "id": "baseline-010",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 12,
+    "layouts": 19
+  },
+  {
+    "id": "baseline-011",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 9
+  },
+  {
+    "id": "baseline-012",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 8
+  },
+  {
+    "id": "baseline-013",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 6
+  },
+  {
+    "id": "baseline-014",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 12,
+    "layouts": 19
+  },
+  {
+    "id": "baseline-015",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 12,
+    "layouts": 19
+  },
+  {
+    "id": "baseline-016",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 11,
+    "layouts": 16
+  },
+  {
+    "id": "baseline-017",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "baseline-018",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "baseline-019",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 14,
+    "layouts": 22
+  },
+  {
+    "id": "baseline-020",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "baseline-021",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 15,
+    "layouts": 24
+  },
+  {
+    "id": "baseline-022",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 16,
+    "layouts": 26
+  },
+  {
+    "id": "baseline-023",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 12
+  },
+  {
+    "id": "baseline-024",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "baseline-025",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 12
+  },
+  {
+    "id": "baseline-026",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 9
+  },
+  {
+    "id": "baseline-027",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 9
+  },
+  {
+    "id": "baseline-028",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 16,
+    "layouts": 26
+  },
+  {
+    "id": "baseline-029",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 14,
+    "layouts": 22
+  },
+  {
+    "id": "baseline-030",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 15,
+    "layouts": 23
+  },
+  {
+    "id": "baseline-031",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 9,
+    "layouts": 15
+  },
+  {
+    "id": "baseline-032",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 21,
+    "layouts": 36
+  },
+  {
+    "id": "baseline-033",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 13,
+    "layouts": 19
+  },
+  {
+    "id": "baseline-034",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "baseline-035",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "baseline-036",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "baseline-037",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 17,
+    "layouts": 27
+  },
+  {
+    "id": "baseline-038",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "baseline-039",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "baseline-040",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "baseline-041",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 9,
+    "layouts": 13
+  },
+  {
+    "id": "baseline-042",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 19,
+    "layouts": 31
+  },
+  {
+    "id": "baseline-043",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 20,
+    "layouts": 33
+  },
+  {
+    "id": "baseline-044",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "baseline-045",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "baseline-046",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 21,
+    "layouts": 35
+  },
+  {
+    "id": "baseline-047",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 10,
+    "layouts": 15
+  },
+  {
+    "id": "baseline-048",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "baseline-049",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "baseline-050",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 16
+  },
+  {
+    "id": "baseline-051",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 12
+  },
+  {
+    "id": "baseline-052",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "baseline-053",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "baseline-054",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 9,
+    "layouts": 18
+  },
+  {
+    "id": "baseline-055",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 13
+  },
+  {
+    "id": "baseline-056",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 11
+  },
+  {
+    "id": "baseline-057",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 12
+  },
+  {
+    "id": "baseline-058",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 9
+  },
+  {
+    "id": "baseline-059",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 20,
+    "layouts": 32
+  },
+  {
+    "id": "baseline-060",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "baseline-061",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 18,
+    "layouts": 29
+  },
+  {
+    "id": "baseline-062",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 20,
+    "layouts": 31
+  },
+  {
+    "id": "baseline-063",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 17,
+    "layouts": 26
+  },
+  {
+    "id": "baseline-064",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 18,
+    "layouts": 28
+  },
+  {
+    "id": "baseline-065",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 13,
+    "layouts": 21
+  },
+  {
+    "id": "baseline-066",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 10
+  },
+  {
+    "id": "baseline-067",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 6,
+    "layouts": 10
+  },
+  {
+    "id": "baseline-068",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 14
+  },
+  {
+    "id": "baseline-069",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 21,
+    "layouts": 35
+  },
+  {
+    "id": "baseline-070",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 24,
+    "layouts": 41
+  },
+  {
+    "id": "weighted-000",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-001",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-002",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-003",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 5,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-004",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-005",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-006",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 6,
+    "layouts": 9
+  },
+  {
+    "id": "weighted-007",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-008",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-009",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 7,
+    "layouts": 10
+  },
+  {
+    "id": "weighted-010",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-011",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-012",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-013",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 5,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-014",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-015",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "weighted-016",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-017",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 9,
+    "layouts": 14
+  },
+  {
+    "id": "weighted-018",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-019",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-020",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 9,
+    "layouts": 14
+  },
+  {
+    "id": "weighted-021",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-022",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-023",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-024",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-025",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 9,
+    "layouts": 13
+  },
+  {
+    "id": "weighted-026",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-027",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-028",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 7,
+    "layouts": 10
+  },
+  {
+    "id": "weighted-029",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 5,
+    "layouts": 9
+  },
+  {
+    "id": "weighted-030",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 8,
+    "layouts": 12
+  },
+  {
+    "id": "weighted-031",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-032",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-033",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-034",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-035",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-036",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-037",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-038",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-039",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-040",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 12,
+    "layouts": 19
+  },
+  {
+    "id": "weighted-041",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-042",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-043",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 5,
+    "layouts": 9
+  },
+  {
+    "id": "weighted-044",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-045",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-046",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-047",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-048",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-049",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-050",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-051",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-052",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-053",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-054",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 5,
+    "layouts": 9
+  },
+  {
+    "id": "weighted-055",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-056",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 6,
+    "layouts": 11
+  },
+  {
+    "id": "weighted-057",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-058",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-059",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 14,
+    "layouts": 22
+  },
+  {
+    "id": "weighted-060",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 14,
+    "layouts": 22
+  },
+  {
+    "id": "weighted-061",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-062",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-063",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-064",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-065",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-066",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-067",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-068",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 16,
+    "layouts": 26
+  },
+  {
+    "id": "weighted-069",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-070",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 15,
+    "layouts": 24
+  },
+  {
+    "id": "weighted-071",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-072",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 5,
+    "layouts": 9
+  },
+  {
+    "id": "weighted-073",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-074",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-075",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 17,
+    "layouts": 28
+  },
+  {
+    "id": "weighted-076",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-077",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-078",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-079",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-080",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-081",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-082",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 9,
+    "layouts": 13
+  },
+  {
+    "id": "weighted-083",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-084",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-085",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-086",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-087",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-088",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-089",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 11,
+    "layouts": 17
+  },
+  {
+    "id": "weighted-090",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 10,
+    "layouts": 15
+  },
+  {
+    "id": "weighted-091",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-092",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-093",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-094",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-095",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 18,
+    "layouts": 30
+  },
+  {
+    "id": "weighted-096",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 6,
+    "layouts": 11
+  },
+  {
+    "id": "weighted-097",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 21,
+    "layouts": 36
+  },
+  {
+    "id": "weighted-098",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-099",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 5,
+    "layouts": 9
+  },
+  {
+    "id": "weighted-100",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 13,
+    "layouts": 19
+  },
+  {
+    "id": "weighted-101",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-102",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 11,
+    "layouts": 16
+  },
+  {
+    "id": "weighted-103",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-104",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-105",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-106",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-107",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "weighted-108",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 21,
+    "layouts": 35
+  },
+  {
+    "id": "weighted-109",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-110",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-111",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-112",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-113",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 6,
+    "layouts": 11
+  },
+  {
+    "id": "weighted-114",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-115",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-116",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-117",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 25,
+    "layouts": 43
+  },
+  {
+    "id": "weighted-118",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-119",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 6,
+    "layouts": 11
+  },
+  {
+    "id": "weighted-120",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 16,
+    "layouts": 26
+  },
+  {
+    "id": "weighted-121",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-122",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-123",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 17,
+    "layouts": 27
+  },
+  {
+    "id": "weighted-124",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 17,
+    "layouts": 27
+  },
+  {
+    "id": "weighted-125",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 9,
+    "layouts": 13
+  },
+  {
+    "id": "weighted-126",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-127",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-128",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 5,
+    "layouts": 9
+  },
+  {
+    "id": "weighted-129",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 16,
+    "layouts": 26
+  },
+  {
+    "id": "weighted-130",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-131",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-132",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-133",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 23,
+    "layouts": 39
+  },
+  {
+    "id": "weighted-134",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 23,
+    "layouts": 39
+  },
+  {
+    "id": "weighted-135",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-136",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-137",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-138",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-139",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 21,
+    "layouts": 35
+  },
+  {
+    "id": "weighted-140",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-141",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-142",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-143",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-144",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-145",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-146",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-147",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-148",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-149",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-150",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-151",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-152",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-153",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-154",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-155",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-156",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-157",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 15,
+    "layouts": 23
+  },
+  {
+    "id": "weighted-158",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-159",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-160",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-161",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 22,
+    "layouts": 35
+  },
+  {
+    "id": "weighted-162",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 18,
+    "layouts": 30
+  },
+  {
+    "id": "weighted-163",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 7,
+    "layouts": 13
+  },
+  {
+    "id": "weighted-164",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-165",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-166",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-167",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-168",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 19,
+    "layouts": 32
+  },
+  {
+    "id": "weighted-169",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 19,
+    "layouts": 32
+  },
+  {
+    "id": "weighted-170",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-171",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 5,
+    "layouts": 9
+  },
+  {
+    "id": "weighted-172",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-173",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-174",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 24,
+    "layouts": 41
+  },
+  {
+    "id": "weighted-175",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 12,
+    "layouts": 20
+  },
+  {
+    "id": "weighted-176",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 15,
+    "layouts": 23
+  },
+  {
+    "id": "weighted-177",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 6,
+    "layouts": 11
+  },
+  {
+    "id": "weighted-178",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-179",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-180",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-181",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "weighted-182",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 4,
+    "layouts": 7
+  },
+  {
+    "id": "weighted-183",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-184",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 14,
+    "layouts": 23
+  },
+  {
+    "id": "weighted-185",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 18,
+    "layouts": 29
+  },
+  {
+    "id": "weighted-186",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-187",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-188",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-189",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 23,
+    "layouts": 39
+  },
+  {
+    "id": "weighted-190",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 14,
+    "layouts": 22
+  },
+  {
+    "id": "weighted-191",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 25,
+    "layouts": 43
+  },
+  {
+    "id": "weighted-192",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-193",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-194",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 19,
+    "layouts": 30
+  },
+  {
+    "id": "weighted-195",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 3,
+    "layouts": 5
+  },
+  {
+    "id": "weighted-196",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-197",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 24,
+    "layouts": 41
+  },
+  {
+    "id": "weighted-198",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-199",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 26,
+    "layouts": 45
+  },
+  {
+    "id": "weighted-200",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 2
+  },
+  {
+    "id": "weighted-201",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 17,
+    "layouts": 27
+  },
+  {
+    "id": "weighted-202",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 25,
+    "layouts": 43
+  },
+  {
+    "id": "weighted-203",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 17,
+    "layouts": 27
+  },
+  {
+    "id": "weighted-204",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 23,
+    "layouts": 39
+  },
+  {
+    "id": "weighted-205",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-206",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 14,
+    "layouts": 22
+  },
+  {
+    "id": "weighted-207",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 23,
+    "layouts": 39
+  },
+  {
+    "id": "weighted-208",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 26,
+    "layouts": 45
+  },
+  {
+    "id": "weighted-209",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 18,
+    "layouts": 29
+  },
+  {
+    "id": "weighted-210",
+    "beta": 1,
+    "beta2": 2,
+    "bases": 2,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-211",
+    "beta": 1,
+    "beta2": 3,
+    "bases": 1,
+    "layouts": 3
+  },
+  {
+    "id": "weighted-212",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 25,
+    "layouts": 43
+  },
+  {
+    "id": "degree4-000",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "degree4-001",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "degree4-002",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "degree4-003",
+    "beta": 3,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 10
+  },
+  {
+    "id": "degree4-004",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "degree4-005",
+    "beta": 3,
+    "beta2": 5,
+    "bases": 6,
+    "layouts": 7
+  },
+  {
+    "id": "degree4-006",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 9,
+    "layouts": 13
+  },
+  {
+    "id": "degree4-007",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "degree4-008",
+    "beta": 3,
+    "beta2": 4,
+    "bases": 13,
+    "layouts": 17
+  },
+  {
+    "id": "degree4-009",
+    "beta": 3,
+    "beta2": 4,
+    "bases": 12,
+    "layouts": 15
+  },
+  {
+    "id": "degree4-010",
+    "beta": 3,
+    "beta2": 4,
+    "bases": 12,
+    "layouts": 15
+  },
+  {
+    "id": "degree4-011",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 6
+  },
+  {
+    "id": "degree4-012",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 10,
+    "layouts": 14
+  },
+  {
+    "id": "degree4-013",
+    "beta": 3,
+    "beta2": 5,
+    "bases": 6,
+    "layouts": 7
+  },
+  {
+    "id": "degree4-014",
+    "beta": 3,
+    "beta2": 5,
+    "bases": 10,
+    "layouts": 12
+  },
+  {
+    "id": "degree4-015",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 12,
+    "layouts": 18
+  },
+  {
+    "id": "degree4-016",
+    "beta": 3,
+    "beta2": 5,
+    "bases": 9,
+    "layouts": 11
+  },
+  {
+    "id": "degree4-017",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 12,
+    "layouts": 18
+  },
+  {
+    "id": "degree4-018",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 10,
+    "layouts": 14
+  },
+  {
+    "id": "degree4-019",
+    "beta": 3,
+    "beta2": 4,
+    "bases": 18,
+    "layouts": 24
+  },
+  {
+    "id": "degree4-020",
+    "beta": 3,
+    "beta2": 5,
+    "bases": 6,
+    "layouts": 7
+  },
+  {
+    "id": "degree4-021",
+    "beta": 3,
+    "beta2": 4,
+    "bases": 19,
+    "layouts": 25
+  },
+  {
+    "id": "degree4-022",
+    "beta": 3,
+    "beta2": 4,
+    "bases": 16,
+    "layouts": 20
+  },
+  {
+    "id": "degree4-023",
+    "beta": 3,
+    "beta2": 4,
+    "bases": 18,
+    "layouts": 23
+  },
+  {
+    "id": "degree4-024",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 9
+  },
+  {
+    "id": "degree4-025",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 6
+  },
+  {
+    "id": "degree4-026",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 10
+  },
+  {
+    "id": "degree4-027",
+    "beta": 3,
+    "beta2": 4,
+    "bases": 20,
+    "layouts": 27
+  },
+  {
+    "id": "bicyclic-000",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "bicyclic-001",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "bicyclic-002",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "bicyclic-003",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "bicyclic-004",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "bicyclic-005",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "bicyclic-006",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "bicyclic-007",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "bicyclic-008",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "bicyclic-009",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 10,
+    "layouts": 14
+  },
+  {
+    "id": "bicyclic-010",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 10,
+    "layouts": 14
+  },
+  {
+    "id": "bicyclic-011",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 7,
+    "layouts": 10
+  },
+  {
+    "id": "bicyclic-012",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "bicyclic-013",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 7,
+    "layouts": 10
+  },
+  {
+    "id": "bicyclic-014",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 10,
+    "layouts": 14
+  },
+  {
+    "id": "bicyclic-015",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 10,
+    "layouts": 14
+  },
+  {
+    "id": "bicyclic-016",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "bicyclic-017",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "bicyclic-018",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 10,
+    "layouts": 14
+  },
+  {
+    "id": "bicyclic-019",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "bicyclic-020",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 10,
+    "layouts": 14
+  },
+  {
+    "id": "bicyclic-021",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 12,
+    "layouts": 18
+  },
+  {
+    "id": "bicyclic-022",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 14,
+    "layouts": 20
+  },
+  {
+    "id": "bicyclic-023",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "bicyclic-024",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 12,
+    "layouts": 18
+  },
+  {
+    "id": "bicyclic-025",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 10,
+    "layouts": 14
+  },
+  {
+    "id": "bicyclic-026",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 8,
+    "layouts": 12
+  },
+  {
+    "id": "bicyclic-027",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 13,
+    "layouts": 19
+  },
+  {
+    "id": "bicyclic-028",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 9
+  },
+  {
+    "id": "bicyclic-029",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 12,
+    "layouts": 18
+  },
+  {
+    "id": "bicyclic-030",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 11,
+    "layouts": 18
+  },
+  {
+    "id": "bicyclic-031",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 12,
+    "layouts": 18
+  },
+  {
+    "id": "bicyclic-032",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "bicyclic-033",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "bicyclic-034",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "bicyclic-035",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "bicyclic-036",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 12,
+    "layouts": 17
+  },
+  {
+    "id": "bicyclic-037",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "bicyclic-038",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 9,
+    "layouts": 13
+  },
+  {
+    "id": "bicyclic-039",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "bicyclic-040",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 9,
+    "layouts": 13
+  },
+  {
+    "id": "bicyclic-041",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 12,
+    "layouts": 17
+  },
+  {
+    "id": "bicyclic-042",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 15,
+    "layouts": 23
+  },
+  {
+    "id": "bicyclic-043",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "bicyclic-044",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "bicyclic-045",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 17,
+    "layouts": 26
+  },
+  {
+    "id": "bicyclic-046",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 18,
+    "layouts": 26
+  },
+  {
+    "id": "bicyclic-047",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "bicyclic-048",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 6,
+    "layouts": 8
+  },
+  {
+    "id": "bicyclic-049",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 17,
+    "layouts": 26
+  },
+  {
+    "id": "bicyclic-050",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 12,
+    "layouts": 17
+  },
+  {
+    "id": "bicyclic-051",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "bicyclic-052",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 5
+  },
+  {
+    "id": "bicyclic-053",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 15,
+    "layouts": 23
+  },
+  {
+    "id": "bicyclic-054",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 10,
+    "layouts": 15
+  },
+  {
+    "id": "bicyclic-055",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 10,
+    "layouts": 15
+  },
+  {
+    "id": "bicyclic-056",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 15,
+    "layouts": 23
+  },
+  {
+    "id": "bicyclic-057",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 4,
+    "layouts": 9
+  },
+  {
+    "id": "bicyclic-058",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 17,
+    "layouts": 25
+  },
+  {
+    "id": "bicyclic-059",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 8,
+    "layouts": 11
+  },
+  {
+    "id": "bicyclic-060",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 10,
+    "layouts": 15
+  },
+  {
+    "id": "bicyclic-061",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 15,
+    "layouts": 23
+  },
+  {
+    "id": "bicyclic-062",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 10,
+    "layouts": 16
+  },
+  {
+    "id": "bicyclic-063",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 14,
+    "layouts": 22
+  },
+  {
+    "id": "bicyclic-064",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 13,
+    "layouts": 20
+  },
+  {
+    "id": "bicyclic-065",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 10,
+    "layouts": 16
+  },
+  {
+    "id": "bicyclic-066",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 12,
+    "layouts": 19
+  },
+  {
+    "id": "bicyclic-067",
+    "beta": 2,
+    "beta2": 4,
+    "bases": 14,
+    "layouts": 23
+  },
+  {
+    "id": "bicyclic-068",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 12,
+    "layouts": 18
+  },
+  {
+    "id": "bicyclic-069",
+    "beta": 2,
+    "beta2": 3,
+    "bases": 18,
+    "layouts": 29
+  }
+]

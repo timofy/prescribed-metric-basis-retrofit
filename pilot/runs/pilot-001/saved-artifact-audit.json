@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "graphs_roundtrip_verified": 331,
+  "bases_roundtrip_verified": 3900,
+  "subsets_roundtrip_verified": 237928,
+  "relabelings_checked": 1182,
+  "graphs_with_penalty_one_by_n": {
+    "7": 2,
+    "8": 5,
+    "9": 11,
+    "10": 27
+  },
+  "resources": {
+    "cpu_seconds": 8.25,
+    "aggregate_job_cpu_seconds": 8.25,
+    "wall_seconds": 8.508560700007365,
+    "peak_job_commit_bytes": 73388032,
+    "peak_working_set_bytes": 83447808,
+    "job_memory_limit_bytes": 500000000,
+    "hard_working_set_max_bytes": 600000000,
+    "job_user_cpu_limit_seconds": 50,
+    "wall_limit_seconds": 60,
+    "affinity": 1,
+    "active_process_limit": 1
+  }
+}

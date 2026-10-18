@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "privacy_scan": "text, PDF extracted content and metadata; no private paths, credentials, contact details or internal IDs detected",
+  "pdfs": [
+    {
+      "path": "output/paper.pdf",
+      "pages": 13,
+      "metadata": {
+        "/Author": "Tim Hughes (project owner/research coordinator)",
+        "/CreationDate": "D:20261019070835+10'00'",
+        "/Creator": "(unspecified)",
+        "/Keywords": "",
+        "/ModDate": "D:20261019070835+10'00'",
+        "/Producer": "ReportLab PDF Library - (opensource)",
+        "/Subject": "(unspecified)",
+        "/Title": "Retaining a metric basis under one sensor erasure in subcubic unicyclic graphs",
+        "/Trapped": "/False"
+      },
+      "visually_inspected": true
+    },
+    {
+      "path": "output/review.pdf",
+      "pages": 3,
+      "metadata": {
+        "/Author": "Tim Hughes (project owner/research coordinator)",
+        "/CreationDate": "D:20261019070835+10'00'",
+        "/Creator": "(unspecified)",
+        "/Keywords": "",
+        "/ModDate": "D:20261019070835+10'00'",
+        "/Producer": "ReportLab PDF Library - (opensource)",
+        "/Subject": "(unspecified)",
+        "/Title": "Review and limitations report",
+        "/Trapped": "/False"
+      },
+      "visually_inspected": true
+    }
+  ],
+  "code_syntax": "PASS",
+  "latex": "Pandoc source generated; available compiler returned unknown status; no compilation claim",
+  "rights_scope": "CC BY 4.0 original documentation, MIT original code, only grantable rights; no third-party full-text PDFs",
+  "scientific_rerun": false
+}

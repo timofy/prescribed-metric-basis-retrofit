@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "checkpoint": "PREP-2026-10-18-v1",
+  "status": "prepared_waiting_literature_gate",
+  "assertion_tested": "For every connected simple unweighted unicyclic graph of maximum degree at most 3 and 3 through 10 vertices, and every minimum resolving set B, rho(G,B)-beta2(G)<=1.",
+  "bounds": {
+    "n_min": 3,
+    "n_max": 10,
+    "maximum_degree": 3,
+    "edges_equal_vertices": true
+  },
+  "arithmetic": "exact integers",
+  "all_minimum_bases": true,
+  "label_convention": "vertices 0..n-1; bit i denotes vertex i; sorted undirected edges",
+  "isomorphism": "one representative per exact class; enumerate every base mask of each representative",
+  "resource_caps": {
+    "total_cpu_seconds": 7200,
+    "ram_bytes": 4000000000,
+    "gpu": false,
+    "paid_services": false
+  },
+  "stop_on_verified_counterexample": true,
+  "optional_greedy": false,
+  "randomness": {
+    "used": false,
+    "seed": null
+  },
+  "software_observed": [
+    {
+      "name": "CPython",
+      "version": "3.13.1",
+      "architecture": "64-bit"
+    }
+  ],
+  "implementation_status": "design_only",
+  "enumeration_executed": false,
+  "novelty_status": "unknown; separate literature gate pending",
+  "non_claims": [
+    "unbounded proof",
+    "novelty",
+    "network or physical utility"
+  ]
+}

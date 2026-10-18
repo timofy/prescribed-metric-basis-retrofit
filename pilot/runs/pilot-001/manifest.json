@@ -1,0 +1,59 @@
+{
+  "status": "finite_assertion_verified",
+  "start_utc": "2026-10-18T10:56:33Z",
+  "end_utc": "2026-10-18T10:56:44Z",
+  "argv": [
+    "run.py"
+  ],
+  "python": "3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)]",
+  "executable": "python.exe",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "cpu_count": 10,
+  "input_hashes_before": {
+    "generate.py": "72b31a974050a9eaa8d275758932756706782c3d47d93b023d686412c20f49cb",
+    "launch.py": "9651f50e07b474f948fb989b99bcd7653f9748b0768d4ed42a18ef02b76c853c",
+    "limits.py": "b3a76167b6df9856a1a7d490a489280e8ba669f69cdee4a80d69d74985650e8c",
+    "preflight.py": "71457f11aefeb3fd40e77977cf2e366673ef1b25abdf44e30d9922278d59d07a",
+    "run.py": "6271b103d68a5c9a2191f6944c55e0af54d6e65c7a776386296c60501171dbee",
+    "solve.py": "e06c139310458cb54a81d6648ac161068d499f697ae578811375191b93b3963f",
+    "verify.py": "2927b07bd449dd21e28a220417c53d55e38515d868353ab86eaa8e2dd6c501cc"
+  },
+  "input_hashes_after": {
+    "generate.py": "72b31a974050a9eaa8d275758932756706782c3d47d93b023d686412c20f49cb",
+    "launch.py": "9651f50e07b474f948fb989b99bcd7653f9748b0768d4ed42a18ef02b76c853c",
+    "limits.py": "b3a76167b6df9856a1a7d490a489280e8ba669f69cdee4a80d69d74985650e8c",
+    "preflight.py": "71457f11aefeb3fd40e77977cf2e366673ef1b25abdf44e30d9922278d59d07a",
+    "run.py": "6271b103d68a5c9a2191f6944c55e0af54d6e65c7a776386296c60501171dbee",
+    "solve.py": "e06c139310458cb54a81d6648ac161068d499f697ae578811375191b93b3963f",
+    "verify.py": "2927b07bd449dd21e28a220417c53d55e38515d868353ab86eaa8e2dd6c501cc"
+  },
+  "outputs": {
+    "bases.jsonl": "a9fc7c35757ac5e680c06ef315ff1fa6e0660b1168924759bed8acc94703d18e",
+    "certificates.jsonl": "11569ee3a65bd4b46d209278a7a67b3c991bf2c5ef45fe062e53bc96270cfff1",
+    "coverage.json": "11020a23b55baab63723e6582ff0248c8e817b310493a8c161049d820faadcf6",
+    "graphs.jsonl": "62e60f9bb99846634ed134a1340e4d054fc33600676bf68f1271f1e82db94f17"
+  },
+  "resources": {
+    "cpu_seconds": 10.390625,
+    "aggregate_job_cpu_seconds": 10.390625,
+    "wall_seconds": 10.904554100008681,
+    "peak_job_commit_bytes": 28307456,
+    "peak_working_set_bytes": 41967616,
+    "job_memory_limit_bytes": 2500000000,
+    "hard_working_set_max_bytes": 3000000000,
+    "job_user_cpu_limit_seconds": 6500,
+    "wall_limit_seconds": 6600,
+    "affinity": 1,
+    "active_process_limit": 1
+  },
+  "graphs_verified": 331,
+  "bases_verified": 3900,
+  "penalty_counts": {
+    "0": 3761,
+    "1": 139
+  },
+  "min_p": 0,
+  "max_p": 1,
+  "randomness": false,
+  "public_derivative_note": "Sanitised public manifest; source/output hashes below identify this release. Original manifest SHA-256 is in PROVENANCE.json."
+}

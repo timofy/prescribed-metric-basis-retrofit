@@ -1,0 +1,42 @@
+[
+  {
+    "key": "hernando-ft",
+    "text": "C. Hernando, M. Mora, P. J. Slater and D. R. Wood. Fault-Tolerant Metric Dimension of Graphs. Convexity in Discrete Structures, RMS Lecture Notes Series 5 (2008), 81-85.",
+    "url": "HMSW-FaultTolerant.pdf"
+  },
+  {
+    "key": "sedlar-skrekovski",
+    "text": "J. Sedlar and R. Skrekovski. Vertex and edge metric dimensions of unicyclic graphs. Discrete Applied Mathematics 314 (2022), 81-92. DOI: 10.1016/j.dam.2022.02.022. Proof numbering: arXiv:2104.00577v1.",
+    "url": "2104.00577"
+  },
+  {
+    "key": "knor-expensive",
+    "text": "M. Knor, J. Sedlar and R. Skrekovski. Fault Tolerance of Metric Basis Can Be Expensive. Mediterranean Journal of Mathematics (2025). DOI: 10.1007/s00009-025-02894-3. Checked preprint: arXiv:2410.03656v1.",
+    "url": "2410.03656v1"
+  },
+  {
+    "key": "geneson-tsai",
+    "text": "J. Geneson and S.-F. Tsai. Fault tolerance for metric dimension and its variants. arXiv:2502.02731v1 (2025). Checked preprint version; no numerical constant from Theorem 2.7 is used.",
+    "url": "2502.02731v1"
+  },
+  {
+    "key": "hakanen-forced",
+    "text": "A. Hakanen, V. Junnila, T. Laihonen and I. G. Yero. On Vertices Contained in All or in No Metric Basis. Discrete Applied Mathematics 319 (2022), 407-423.",
+    "url": "2103.08911"
+  },
+  {
+    "key": "bergougnoux-enumerating",
+    "text": "B. Bergougnoux, O. Defrain and F. Mc Inerney. Enumerating Minimal Solution Sets for Metric Graph Problems. Algorithmica 87 (2025), 712-735. Checked preprint: arXiv:2309.17419v2.",
+    "url": "2309.17419v2"
+  },
+  {
+    "key": "estrada-unicyclic",
+    "text": "A. Estrada-Moreno. The k-Metric Dimension of a Unicyclic Graph. Mathematics 9 (2021), 2789. DOI: 10.3390/math9212789.",
+    "url": "2789"
+  },
+  {
+    "key": "prabhu-primary",
+    "text": "S. Prabhu, S. Klavzar, K. Bharani Dharan and S. Radha. Computing fault-tolerant metric dimension of graphs using their primary subgraphs. arXiv:2509.14300v2 (2026).",
+    "url": "2509.14300v2"
+  }
+]

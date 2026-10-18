@@ -1,0 +1,281 @@
+{
+  "description": "Sanitised public derivatives of reviewed local evidence. Original SHA-256 values pin prior bytes; public hashes pin adapted bytes. Local freeze is not independently timestamped preregistration. No scientific rerun in public packaging.",
+  "files": [
+    {
+      "public_file": "pilot/generate.py",
+      "original_sha256": "72b31a974050a9eaa8d275758932756706782c3d47d93b023d686412c20f49cb",
+      "public_sha256": "72b31a974050a9eaa8d275758932756706782c3d47d93b023d686412c20f49cb",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/solve.py",
+      "original_sha256": "e06c139310458cb54a81d6648ac161068d499f697ae578811375191b93b3963f",
+      "public_sha256": "e06c139310458cb54a81d6648ac161068d499f697ae578811375191b93b3963f",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/verify.py",
+      "original_sha256": "2927b07bd449dd21e28a220417c53d55e38515d868353ab86eaa8e2dd6c501cc",
+      "public_sha256": "2927b07bd449dd21e28a220417c53d55e38515d868353ab86eaa8e2dd6c501cc",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/limits.py",
+      "original_sha256": "b3a76167b6df9856a1a7d490a489280e8ba669f69cdee4a80d69d74985650e8c",
+      "public_sha256": "b3a76167b6df9856a1a7d490a489280e8ba669f69cdee4a80d69d74985650e8c",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/run.py",
+      "original_sha256": "6271b103d68a5c9a2191f6944c55e0af54d6e65c7a776386296c60501171dbee",
+      "public_sha256": "6271b103d68a5c9a2191f6944c55e0af54d6e65c7a776386296c60501171dbee",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/audit_saved.py",
+      "original_sha256": "2acaf53a6d8f321ec09552c74769797d5cb3c4b2286f67089fa34019d27039ce",
+      "public_sha256": "2acaf53a6d8f321ec09552c74769797d5cb3c4b2286f67089fa34019d27039ce",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/preflight.py",
+      "original_sha256": "71457f11aefeb3fd40e77977cf2e366673ef1b25abdf44e30d9922278d59d07a",
+      "public_sha256": "71457f11aefeb3fd40e77977cf2e366673ef1b25abdf44e30d9922278d59d07a",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/launch.py",
+      "original_sha256": "9651f50e07b474f948fb989b99bcd7653f9748b0768d4ed42a18ef02b76c853c",
+      "public_sha256": "9651f50e07b474f948fb989b99bcd7653f9748b0768d4ed42a18ef02b76c853c",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/SPECIFICATION.md",
+      "original_sha256": "ad39b3873e637b7df6792c1f1103f84f3089da866e246b8decc84425b6aa480d",
+      "public_sha256": "e486788604b4922b23192b4cb5e145451bbba987e1927575580594b7d9892f05",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/IMPLEMENTATION_PLAN.md",
+      "original_sha256": "32c8cf69673c920f8493d16482a3eba1d80554be98c0fe35c0930b98770fbe32",
+      "public_sha256": "d2e3712c322f77ef966fc2c68e03584fc52e9ebe885323d9f29eeef341745da4",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/RESOURCE_AND_RUN_PLAN.md",
+      "original_sha256": "ac003d83b75bf075814b8878daf7f6a38b20547cb3ee30e60aca12552ba01a90",
+      "public_sha256": "d5476593d7b42b6c5d549946b24b0e75be5eca22fa100fdd98efbe4c7a89c02d",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/contract.json",
+      "original_sha256": "37fe58376534d8878fff4a4d5f863a7b790bb1c27245c428ed9c007654f0a1cc",
+      "public_sha256": "a8406510640cc9f9f4db2cc533ba594495ab525b2f457c2b5299fd7db1adc877",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/runs/pilot-001/graphs.jsonl",
+      "original_sha256": "62e60f9bb99846634ed134a1340e4d054fc33600676bf68f1271f1e82db94f17",
+      "public_sha256": "62e60f9bb99846634ed134a1340e4d054fc33600676bf68f1271f1e82db94f17",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/runs/pilot-001/bases.jsonl",
+      "original_sha256": "a9fc7c35757ac5e680c06ef315ff1fa6e0660b1168924759bed8acc94703d18e",
+      "public_sha256": "a9fc7c35757ac5e680c06ef315ff1fa6e0660b1168924759bed8acc94703d18e",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/runs/pilot-001/certificates.jsonl",
+      "original_sha256": "11569ee3a65bd4b46d209278a7a67b3c991bf2c5ef45fe062e53bc96270cfff1",
+      "public_sha256": "11569ee3a65bd4b46d209278a7a67b3c991bf2c5ef45fe062e53bc96270cfff1",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/runs/pilot-001/coverage.json",
+      "original_sha256": "11020a23b55baab63723e6582ff0248c8e817b310493a8c161049d820faadcf6",
+      "public_sha256": "11020a23b55baab63723e6582ff0248c8e817b310493a8c161049d820faadcf6",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/runs/pilot-001/manifest.json",
+      "original_sha256": "a2a74f79750d6b233f86fd8f88bc6cc82e7f4e830a77c0b5319f876a33b29f8f",
+      "public_sha256": "b505989f7daad0f63f9370601974ba164426b8fa56fefc569c225941e7d2fa7b",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/runs/pilot-001/report.md",
+      "original_sha256": "37c444c88afd93e6ce31ffa2041e3dd9d6d002d7054b1818dc0b9b379ea63b3d",
+      "public_sha256": "24c4959418f691ac3703191734658b900a934c1c748438073c1af430ada0550f",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot/runs/pilot-001/saved-artifact-audit.json",
+      "original_sha256": "d5a738286a1f553613780ca9ab54d3d3a2f15712ad923dee5464665fe7a7ff10",
+      "public_sha256": "d5a738286a1f553613780ca9ab54d3d3a2f15712ad923dee5464665fe7a7ff10",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot-audit/audit.py",
+      "original_sha256": "6b2bfc6f0f33b5490bdd1b47ad5625d68275a6d0a86148bb7ec0ba553d753f3f",
+      "public_sha256": "3265d69e5c572d5f7c61b082b4a5eebd12a370ad34b6c36c537e34a4243574b3",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot-audit/independent_core.py",
+      "original_sha256": "a6a2e20b72c60ed9b16f3b4088871c04588e2eca5001b31f7812cc98f630a53a",
+      "public_sha256": "f108cc3cf47016138179d96ec8546446f4ae1a3273e1ac388405abe0ef38c200",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot-audit/AUDIT.md",
+      "original_sha256": "d2d6238891a4e0c32ba6a507f8523e4195c38ea62910e2d9d270351c5e78f781",
+      "public_sha256": "4849f398d8ebf449e66576ddb110cda6ebebff4df25654861e18de6362eea52d",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot-audit/audit-result.json",
+      "original_sha256": "2b7de90926f166ff11dd34b909e352dd4a84b246701959b215b62506fec08f5e",
+      "public_sha256": "2b7de90926f166ff11dd34b909e352dd4a84b246701959b215b62506fec08f5e",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot-audit/graph-audit.json",
+      "original_sha256": "187cd0c49b6690b72859aacbc2a318b30647cd83e05cee6a8cc7de959156c93a",
+      "public_sha256": "187cd0c49b6690b72859aacbc2a318b30647cd83e05cee6a8cc7de959156c93a",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "pilot-audit/witness-all-128-subsets.csv",
+      "original_sha256": "8bf92e78129a4e07ab0af2251a32c84bfff555cd57a60755bf58c93de212b1d9",
+      "public_sha256": "73920efd6bbb6f3252494b1b5a36372dc9f54db2696d64b85744d0b0ad929533",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/limits.py",
+      "original_sha256": "b3a76167b6df9856a1a7d490a489280e8ba669f69cdee4a80d69d74985650e8c",
+      "public_sha256": "44305b6a0146ad19055d53d5493ee16175c29ebc3d7d37e75c7b90956f6230a6",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/run_extension.py",
+      "original_sha256": "ca536e6407fe739a8250d9c4716f518cca3ef901f1d42e432386e98c68588122",
+      "public_sha256": "87dbae141c8be3ebf753706e80a7f7083d52b9cbfa9d07c37a388527a4cf5074",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/prepare_cases.py",
+      "original_sha256": "a797c67820bf0e75bc86833fd46dd28e7a9301d69d79df6c8c5baacb9904cf32",
+      "public_sha256": "4f89c80c534e1291f4d8d82d4da7b19d1eb378190fad4bce077384d9948cb85a",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/summarise.py",
+      "original_sha256": "7079d0d9872eea73cebdb3748ba9f640dd9ee394daf6366b87bdcbb1a77c348b",
+      "public_sha256": "1fef1f11e1db5d8b9a0ea1074b0e89f7bd73c1b3d1330fc96c22b1cc432eafe5",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/postcheck.py",
+      "original_sha256": "98ea6b622f2c91e5fba4c1e7f060a990dd49f605449cfebe6455f0556768a05a",
+      "public_sha256": "621f2d02dd03dfd56dbd160b247a8733ce5fa9ef35a8fac831332d80f5e70c4e",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/PROTOCOL.md",
+      "original_sha256": "2964c93f725b19c25c8accaa86f8853806ab8248223a145a8cc0d0c039876730",
+      "public_sha256": "ad02f9f9f06285738d3e5b8efe07b334200c9dde35592db372ebe4340a23ebe1",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/planned-cases.json",
+      "original_sha256": "f87f3d0923973dc5510cc181b8519bb8da363f88d6d70eb02f7b9ee209661796",
+      "public_sha256": "2b563448613869c8020859f7b516fda5822b3fc0263082b1fb22389be88439c9",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/input-graphs.jsonl",
+      "original_sha256": "62e60f9bb99846634ed134a1340e4d054fc33600676bf68f1271f1e82db94f17",
+      "public_sha256": "62e60f9bb99846634ed134a1340e4d054fc33600676bf68f1271f1e82db94f17",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/results.jsonl",
+      "original_sha256": "c202b7e2d20554255bf54f4ffdff6b069593321c3c8dff1ee22f25f6016d4c32",
+      "public_sha256": "c202b7e2d20554255bf54f4ffdff6b069593321c3c8dff1ee22f25f6016d4c32",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/noise-boundary-certificates.jsonl",
+      "original_sha256": "f3fe7a989b6e89d989005383934ee789c94009d2766ca29324576bef24fd4423",
+      "public_sha256": "f3fe7a989b6e89d989005383934ee789c94009d2766ca29324576bef24fd4423",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/summary.json",
+      "original_sha256": "b401eb5c7f54d62ce12fec6a31a9cb3e374846b055644676c4dd451727c668c9",
+      "public_sha256": "b401eb5c7f54d62ce12fec6a31a9cb3e374846b055644676c4dd451727c668c9",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/run-manifest.json",
+      "original_sha256": "5e3b2f5a12f2029719b2aea4724f574418719fccba2b284284ba047780cbaafb",
+      "public_sha256": "5e3b2f5a12f2029719b2aea4724f574418719fccba2b284284ba047780cbaafb",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension/postcheck.json",
+      "original_sha256": "5f4ab79d1cfd87333a1230448d67ce12a3d70cdd32f4ed7d3905553c9bc21d08",
+      "public_sha256": "5f4ab79d1cfd87333a1230448d67ce12a3d70cdd32f4ed7d3905553c9bc21d08",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension-audit/AUDIT.md",
+      "original_sha256": "a7c43051acea40385c4e0bf9c5acff65c3b8f016711b523597d103943ab50b04",
+      "public_sha256": "3bbd96d3a36fc31adeb973ede0ff00fc7e9b8d7d5fb34928b630793f95641576",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension-audit/audit-result.json",
+      "original_sha256": "041d26c5afb9c40564e10bd1b512aa35bfc8a6939ea7ac9aeb3aa6d5d4cfeafb",
+      "public_sha256": "041d26c5afb9c40564e10bd1b512aa35bfc8a6939ea7ac9aeb3aa6d5d4cfeafb",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension-audit/case-checks.json",
+      "original_sha256": "8d1a31a4c8886dd9172515aee416e1d6da592ee494b81ee09d15c91f5a71aeea",
+      "public_sha256": "8d1a31a4c8886dd9172515aee416e1d6da592ee494b81ee09d15c91f5a71aeea",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "extension_audit.py",
+      "original_sha256": "4606d961990c438074238ff1e91f77804697e66b3c988102bceba4c88eb9a4a7",
+      "public_sha256": "83337cfdcbd77ce38ff05eea737cd7b0be38d91a3f2ce36a0832c4213d407898",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "source-before.sha256.json",
+      "original_sha256": "cb0ef78351862e725e17fad4c9b436492f728c05edd3354a1f2be3e838a85399",
+      "public_sha256": "cb0ef78351862e725e17fad4c9b436492f728c05edd3354a1f2be3e838a85399",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "references.bib",
+      "original_sha256": "5152f0e4b82bbde893626f824f511c3298dc584b0d29895ee9e8cc13b829ed1f",
+      "public_sha256": "9c2aed970991b20b8079aa65c66c280d6a3edfea69d546264dcdf49b257505f1",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "references-final.json",
+      "original_sha256": "2c796df99b4d045fc242edc4edb5583b080e4f27a99465d77de78c690cf77cd4",
+      "public_sha256": "e409c9450ba864faac6feaf4fe56f6db2d9eed5ed94be8aaf2980c5f2c1dbbf8",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    },
+    {
+      "public_file": "theorem-and-proof.md",
+      "original_sha256": "e45a928f6fa2a4697be8d0c3a03e9c3aacabf4196e02e0fff2e15ab1b80eaa78",
+      "public_sha256": "ef741b511548cb5487c0260ab48f69ad5887281daaabaab48beb1f2e8727b7ac",
+      "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
+    }
+  ]
+}
