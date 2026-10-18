@@ -70,7 +70,7 @@
     {
       "public_file": "pilot/contract.json",
       "original_sha256": "37fe58376534d8878fff4a4d5f863a7b790bb1c27245c428ed9c007654f0a1cc",
-      "public_sha256": "a8406510640cc9f9f4db2cc533ba594495ab525b2f457c2b5299fd7db1adc877",
+      "public_sha256": "8696723f0bb4808b3102ff2e841302f730bc85b3217591997f2d1d5d0279c9cb",
       "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
     },
     {
@@ -106,7 +106,7 @@
     {
       "public_file": "pilot/runs/pilot-001/report.md",
       "original_sha256": "37c444c88afd93e6ce31ffa2041e3dd9d6d002d7054b1818dc0b9b379ea63b3d",
-      "public_sha256": "24c4959418f691ac3703191734658b900a934c1c748438073c1af430ada0550f",
+      "public_sha256": "b26a825b3562393bcf5da47bb00790b3254adc73c23833ea23c147bf581e31d1",
       "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
     },
     {
@@ -232,7 +232,7 @@
     {
       "public_file": "extension-audit/AUDIT.md",
       "original_sha256": "a7c43051acea40385c4e0bf9c5acff65c3b8f016711b523597d103943ab50b04",
-      "public_sha256": "3bbd96d3a36fc31adeb973ede0ff00fc7e9b8d7d5fb34928b630793f95641576",
+      "public_sha256": "e281ab6896fd856d4731aa535ce37917fc8abf79c9e4cfc1b7ad2984d846c0e4",
       "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
     },
     {
@@ -274,7 +274,7 @@
     {
       "public_file": "theorem-and-proof.md",
       "original_sha256": "e45a928f6fa2a4697be8d0c3a03e9c3aacabf4196e02e0fff2e15ab1b80eaa78",
-      "public_sha256": "ef741b511548cb5487c0260ab48f69ad5887281daaabaab48beb1f2e8727b7ac",
+      "public_sha256": "a59f7f1d3e403c4783138daef3afae41657d01d9c02fd6e88414c681d50337cf",
       "note": "Public copy; paths/attribution sanitised where necessary. Scientific records retained."
     }
   ]

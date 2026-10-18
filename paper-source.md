@@ -1,9 +1,6 @@
-# Research status and contributions
+# Research note
 
-**AI-generated research draft. AI logical and computational reviews; not human peer reviewed. Originality is not guaranteed. No physical validation.**
-
-Tim Hughes is the project owner and research coordinator. AI systems generated and revised the manuscript, proof arguments, code and computational checks under his direction. This does not assert that he personally verified the proof; AI is not identified as a legal author. Scholarly claims remain subject to independent scrutiny. The proved scope remains finite connected simple unweighted subcubic unicyclic graphs. The public release does not broaden that theorem.
-
+AI-assisted research draft. Methodology, contributions and review status are described in Section 11 and the companion methodology note.
 
 # Abstract
 
@@ -345,7 +342,7 @@ The computation excludes graphs of order above ten. Theorem 4 covers arbitrary f
 
 # 11. AI assistance and draft status
 
-This draft was prepared under Tim Hughes's direction with AI assistance in developing and checking mathematical arguments, implementing and auditing computations, literature searching and comparison, and manuscript drafting and editing. Separate AI sessions performed logical and computational checks. Those checks are not independent human peer review, journal review or a formal proof-assistant verification. No affiliation or ORCID is asserted. This is a publicly shared AI-generated research draft, not a journal-reviewed or accepted article. The bounded search does not guarantee originality; Tim Hughes coordinates the project; independent human scholarly review remains outstanding.
+This draft was prepared under timofy's direction with AI assistance in developing and checking mathematical arguments, implementing and auditing computations, literature searching and comparison, and manuscript drafting and editing. Separate AI sessions performed logical and computational checks. Those checks are not independent human peer review, journal review or a formal proof-assistant verification. No affiliation or ORCID is asserted. This is a publicly shared AI-assisted research draft. No human peer review has been undertaken and no journal acceptance is claimed. The bounded search does not guarantee originality; timofy coordinates the project; the recorded reviews are AI logical and computational checks.
 
 # References
 

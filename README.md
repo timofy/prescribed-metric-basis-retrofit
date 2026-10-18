@@ -1,8 +1,8 @@
 # Prescribed metric-basis retrofit
 
-**Maths | AI-generated research draft | Not human peer reviewed**
+**Maths | AI-assisted research draft.**
 
-Tim Hughes is the project owner and research coordinator. AI systems generated and revised the arguments, manuscript, code and checks under his direction. This does not assert personal verification of the proof by the owner, or identify AI as a legal author. Originality is not guaranteed. There is no physical validation.
+Project maintained by timofy. See the [methodology and review note](methodology.md) for contributions, review status and limitations.
 
 [Public reading page](https://timofy.github.io/prescribed-metric-basis-retrofit/) · [Read paper](paper.html) · [PDF](output/paper.pdf) · [LaTeX](paper.tex) · [Review](output/review.pdf) · [Evidence ZIP](evidence.zip)
 

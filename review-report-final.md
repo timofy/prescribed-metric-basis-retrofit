@@ -1,6 +1,6 @@
 # Review and limitations report
 
-Tim Hughes, project owner/research coordinator | Public AI-generated draft
+timofy, project owner/research coordinator | Public AI-generated draft
 
 ## Result and interpretation
 
@@ -48,7 +48,7 @@ The audit's editorial corrections are integrated. The half-unit noise threshold 
 
 The local protocol, case plan and source hashes were recorded before the recorded run, and checked before solving. This is a local freeze, not independently timestamped preregistration; it cannot certify absence of earlier unrecorded analyses. The original frozen files retain their historical wording for evidence integrity, while this revision supplies the corrected interpretation.
 
-A separately authored executable audit reproduced the complete finite case plan, all optima and noise certificates; this is AI computational review, not human peer review or physical validation. The bundle includes extension-audit/AUDIT.md, audit-result.json, case-checks.json and the public-path-adapted extension_audit.py. Their reviewed source hashes are retained, including results.jsonl c202b7e2d20554255bf54f4ffdff6b069593321c3c8dff1ee22f25f6016d4c32. This review status supersedes pending-audit language in the historical addendum. The coordinator authorised this public release; no journal acceptance is implied.
+A separately authored executable audit reproduced the complete finite case plan, all optima and noise certificates; this is AI computational review, not human peer review or physical validation. The bundle includes extension-audit/AUDIT.md, audit-result.json, case-checks.json and the public-path-adapted extension_audit.py. Their reviewed source hashes are retained, including results.jsonl c202b7e2d20554255bf54f4ffdff6b069593321c3c8dff1ee22f25f6016d4c32. This review status supersedes earlier audit-status language in the historical addendum. The coordinator authorised this public release; no journal acceptance is implied.
 
 The extension core/postcheck used 2.625 recorded CPU seconds; the separate audit used 0.90625 CPU seconds. Preparation and packaging overhead are additional and unaggregated. The producer enforced hard Windows limits; the separate auditor measured memory and used a cooperative CPU guard without a hard memory quota. No new scientific run was performed during this revision.
 
@@ -58,4 +58,4 @@ The original scientific/preflight charge was 23.109375 CPU seconds. The external
 
 Deliverables comprise the dated manuscript PDF, this report PDF, editable Markdown/BibTeX sources, recorded referee and novelty context, and a ZIP containing source and exact computational/audit evidence with SHA-256 manifests. The final PDFs are rendered and visually inspected, with displayed formulas and citation links checked before delivery.
 
-This public AI-generated draft is not human peer reviewed. Tim Hughes is the project owner/research coordinator, with no assertion that he personally verified the proof. No journal acceptance or physical validation is claimed.
+This public AI-generated draft is not human peer reviewed. timofy is the project owner/research coordinator, with no assertion that he personally verified the proof. No journal acceptance or physical validation is claimed.

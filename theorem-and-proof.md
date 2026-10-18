@@ -2,7 +2,7 @@
 
 
 
-AI-generated research draft | Tim Hughes, project owner/research coordinator | Not human peer reviewed.
+AI-generated research draft | timofy, project owner/research coordinator | Not human peer reviewed.
 
 
 

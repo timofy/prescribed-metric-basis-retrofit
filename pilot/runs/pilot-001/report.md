@@ -2,7 +2,7 @@
 
 For every connected simple unweighted unicyclic graph of maximum degree at most 3 on 3 through 10 vertices, and every minimum-cardinality resolving base in the chosen representative, the computation found **rho(G,B) - beta2(G) <= 1**. No counterexample was found. This is finite computational evidence, not an unbounded proof or novelty claim.
 
-The exact primary solver and a separately written verifier agreed on all **331 graph isomorphism classes, 3,900 minimum bases and 237,928 graph/subset truth-table entries**. The verifier was implemented in the same task, not by an independent external researcher. External verification is pending.
+The exact primary solver and a separately written verifier agreed on all **331 graph isomorphism classes, 3,900 minimum bases and 237,928 graph/subset truth-table entries**. The verifier was implemented in the same task, not by an independent external researcher. This historical same-task result predates the separate computational audit now included in pilot-audit/.
 
 ## Coverage and results
 

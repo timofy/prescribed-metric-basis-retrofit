@@ -52,12 +52,12 @@ def rich(s):
     return s
 def footer(c,doc):
     c.saveState();c.setStrokeColor(HexColor('#CCD5DB'));c.line(48,40,547,40)
-    c.setFont('Arial',8);c.setFillColor(gray);c.drawString(48,27,'AI-generated draft | Not human peer reviewed | Tim Hughes, project coordinator')
+    c.setFont('Arial',8);c.setFillColor(gray);c.drawString(48,27,'AI-assisted research draft. | timofy')
     c.drawRightString(547,27,str(doc.page));c.restoreState()
 def build(src,dest,title,manuscript=False):
     s=(root/src).read_text(encoding='utf-8');s=re.sub(r'\A---\n.*?\n---\n','',s,flags=re.S)
-    if not manuscript:s=re.sub(r'\A# .*?\n\nTim Hughes.*?\n','',s)
-    lines=s.splitlines();story=[Paragraph(title,styles['title']),Paragraph('Tim Hughes - project owner/research coordinator<br/>AI-generated draft; not human peer reviewed',styles['meta'])]
+    if not manuscript:s=re.sub(r'\A# .*?\n\ntimofy.*?\n','',s)
+    lines=s.splitlines();story=[Paragraph(title,styles['title']),Paragraph('timofy - project owner/research coordinator<br/>AI-assisted research draft.',styles['meta'])]
     i=0;mi=0
     while i<len(lines):
         line=lines[i].strip()
@@ -94,7 +94,7 @@ def build(src,dest,title,manuscript=False):
             block.append(lines[i].strip());i+=1
         story.append(Paragraph(rich(' '.join(block)),styles['body']))
     if manuscript:assert mi==len(maths)
-    SimpleDocTemplate(str(out/dest),pagesize=(595.28,841.89),leftMargin=48,rightMargin=48,topMargin=46,bottomMargin=57,title=title,author='Tim Hughes (project owner/research coordinator)',pageCompression=1).build(story,onFirstPage=footer,onLaterPages=footer)
+    SimpleDocTemplate(str(out/dest),pagesize=(595.28,841.89),leftMargin=48,rightMargin=48,topMargin=46,bottomMargin=57,title=title,author='timofy (project owner/research coordinator)',pageCompression=1).build(story,onFirstPage=footer,onLaterPages=footer)
 build('manuscript.md','paper.pdf','Retaining a metric basis under one sensor erasure in subcubic unicyclic graphs',True)
 build('review-report-final.md','review.pdf','Review and limitations report')
 print('Built two dated PDFs from local sources only.')
